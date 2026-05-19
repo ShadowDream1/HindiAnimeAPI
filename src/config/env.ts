@@ -75,7 +75,7 @@ export const env = cleanEnv(process.env, {
     }),
 
     TATAKAI_ADMIN_API_SECRET: str({
-        default: "DarkPulseX2",
+        default: "DarkPulsX2",
         desc: "Optional shared secret required for sensitive admin API routes when set.",
     }),
 
